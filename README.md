@@ -79,7 +79,7 @@ Outputs:
 - Chat history per thread
 - Error messages if no document is uploaded
 
-![image](https://github.ibm.com/user-attachments/assets/187fb784-daa8-4a00-a9b9-aad11bd062e7)
+
 <img width="975" height="468" alt="image" src="https://github.com/user-attachments/assets/f4122d5e-c998-4290-937b-c204c0e10608" />
 
 
